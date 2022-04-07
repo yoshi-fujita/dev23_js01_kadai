@@ -1,9 +1,4 @@
-# dev23_js01_kadai
-G's ACADEMY 課題
-
-G's ACADEMY の JavaScript の課題のじゃんけんプログラムです。jQuery も練習しています。
-
-# 課題：　じゃんけんプログラム（html、css、JavaScript、jQuery の学習）
+# 課題：　じゃんけんゲーム（html、css、JavaScript、jQuery の学習）
 
 ## ① 課題内容（どんな作品か）
 - html、css、JavaScript、jQuery　を使って、ブラウザ上で動作するじゃんけんゲームを自作する
